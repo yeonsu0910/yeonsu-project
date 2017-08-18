@@ -1,0 +1,30 @@
+//login
+json key!!
+id -> userId
+password-> password
+
+//signup
+json key!!
+id-> userId
+nickname-> name
+password-> password
+age-> age
+gender-> gender
+
+//checkId 아이디 중복확인
+id-> userId
+
+//checkName 닉네임 중복확인
+nickname -> name
+
+//update 회원정보 수정
+
+id-> userId //user 확인을 위해
+
+새로운 nickname->name
+새로운 password->password
+
+//destroy 회원 탈퇴
+//id와 password 확인
+id-> userId
+password->password
